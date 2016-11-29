@@ -14,7 +14,11 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan.adapter.HewanAdapter;
 import id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan.model.Hewan;
 
-public class HerbActivity extends AppCompatActivity {
+/**
+ * Created by Rani's on 11/27/2016.
+ */
+
+public class KarActivity extends AppCompatActivity {
     private ArrayList<Hewan> mList = new ArrayList<>();
     private HewanAdapter mAdapter;
 
@@ -35,9 +39,9 @@ public class HerbActivity extends AppCompatActivity {
 
     private void fillData() {
         Resources resources = getResources();
-        String[] arJudul = resources.getStringArray(R.array.hewanherb);
-        String[] arDeskripsi = resources.getStringArray(R.array.hewanherb_desc);
-        TypedArray a = resources.obtainTypedArray(R.array.hewanherb_picture);
+        String[] arJudul = resources.getStringArray(R.array.hewankar);
+        String[] arDeskripsi = resources.getStringArray(R.array.hewankar_desc);
+        TypedArray a = resources.obtainTypedArray(R.array.hewankar_picture);
         Drawable[] arFoto = new Drawable[a.length()];
 
         for (int i = 0; i < arFoto.length; i++) {
