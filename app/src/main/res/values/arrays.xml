@@ -22,7 +22,7 @@
         <item>Kuda</item>
         <item>Kambing</item>
         <item>Kelinci</item>
-        <item>Llam</item>
+        <item>Llama</item>
         <item>Jerapah</item>
     </string-array>
 
@@ -42,12 +42,12 @@
         <item>Gajah adalah  hewan mamalia yang mempunyai ukuran yang besar.</item>
         <item>Binatang sejenis kuda yang tubuhnya berbelang-belang hitam dan putih.</item>
         <item>Sapi adalah hewan ternak.</item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Panda jenis beruang yang ditemukan di pegunungan China tengah dan barat.</item>
+        <item>Kuda adalah hewan mamalia, kuda juga merupakan binatang herbivora.</item>
+        <item>Kambing adalah hewan mamalia yang tergolong hewan herbivora dan juga memamah biak.</item>
+        <item>Kelinci adalah hewan yang lucu, kelinci banyak dipelihara oleh orang karena kelucuan dan tingkahnya yang imut.</item>
+        <item>Llama adalah binatang sosial yang hidup secara berkelompok dan merupakan binatang endemik Amerika Selatan.</item>
+        <item>Jerapah adalah mamalia yang tertinggi yang masih hidup di dunia ini.</item>
     </string-array>
 
     <string-array name="hewankar_desc">//
@@ -69,13 +69,27 @@
         <item>Binatang sejenis kuda yang tubuhnya berbelang-belang hitam dan putih. Zebra hidup dalam kelompok. Zebra adalah hewan herbivora
             (pemakan tumbuhan). Makanan utamanya adalah rumput. Namun kadang-kadang hewan ini juga makan semak,
             dedaunan, ranting, dan bahkan kulit kayu.</item>
-        <item>Lorem ipsum dolor sit amet, consecte</item>
-        <item>Lorem ipsum </item>
-        <item>Lorem ipsum dolor sit amet, conse</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit</item>
-        <item>Lorem ipsum dolor sit amet, consectetur</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</item>
+        <item>Sapi adalah hewan ternak. Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia.
+            Hasil sampingan, seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia.
+        Sapi adalah hewan herbivora (pemakan rumput), sapi juga hewan mamalia.</item>
+        <item>Panda jenis beruang yang ditemukan di pegunungan China tengah dan barat. Salah satu hewan paling terkenal di dunia.
+        Panda juga merupakan salah satu hewan paling langka dan terancam punah terutama akibat dari hilangnya habitat.
+        Panda adalah hewan herbivora (pemakan rumput), daun atau ranting bambu. Ciri khasnya berwarna hitam putih.</item>
+        <item>Kuda adalah hewan mamalia, kuda juga merupakan binatang herbivora. Kuda mempunyai tubuh yang besar dan tubuh yang tinggi.
+            Kuda juga mempunyai suara yang unik kuda suka berlari, kuda dapat di ditunggangi oleh manusia dan dapat digunakan untuk menarik sesuatu.</item>
+        <item>Kambing adalah hewan mamalia yang tergolong hewan herbivora dan juga memamah biak. Kambing memiliki ukuran tubuh yang hampir sama dengan Biri-Biri.
+            Daging kambing dapat dimakan. Susu kambing juga dapat diminum dan juga dijadikan bahan kosmetik. Berkembang biak dengan cara melahirkan.
+        Memiliki sepasang tanduk. Memiliki sepasang kaki depan dan sepasang kaki belakang.</item>
+        <item>Kelinci adalah hewan yang lucu, kelinci banyak dipelihara oleh orang karena kelucuan dan tingkahnya yang imut.
+            Kelinci memiliki tubuh yang hampir mirip dengan kucing. Kelinci juga termasuk hewan yang mudah dipelihara dan jinak.
+            Habitat asli kelinci adalah di hutan. Memiliki gigi depan yang besar yang berguna untuk menggigit wortel.
+            Tubuhnya di tumbuhi oleh bulu bulu yang berwarna putih, cokelat, hitam, orange dan beberapa warna campuran lainnya.</item>
+        <item>Llama adalah binatang sosial yang hidup secara berkelompok dan merupakan binatang endemik Amerika Selatan. Llama yang
+            terkenal karena kegemarannya meludah ini memiliki hubungan kekerabatan yang dekat dengan unta walaupun mereka tidak memppunyai
+            punuk di punggungnya. Llama adalah mamalia dan termasuk hewan herbivora alias pemakan tumbuhan.</item>
+        <item>Jerapah adalah mamalia yang tertinggi yang masih hidup di dunia ini. Jerapah memiliki leher panjang, kaki tipis panjang,
+            dan ekor panjang yang memiliki bulu di bagian ujung yang berguna untuk mengusir lalat. Jerapah adalah binatang herbivora dengan tubuh tinggi.
+        Singa merupakan predator utama jerapah. Jerapah terancam karena banyak perburuan liar dan hilangnya habitat asli mereka.</item>
     </string-array>
 
     <string-array name="hewankar_details">//place_details
