@@ -32,7 +32,7 @@
         <item>Ular</item>
         <item>Singa</item>
         <item>Serigala</item>
-        <item>Pinguin</item>
+        <item>Penguin</item>
         <item>Harimau</item>
         <item>Kucing</item>
         <item>Rubah</item>
@@ -47,18 +47,18 @@
         <item>Kambing adalah hewan mamalia yang tergolong hewan herbivora dan juga memamah biak.</item>
         <item>Kelinci adalah hewan yang lucu, kelinci banyak dipelihara oleh orang karena kelucuan dan tingkahnya yang imut.</item>
         <item>Llama adalah binatang sosial yang hidup secara berkelompok dan merupakan binatang endemik Amerika Selatan.</item>
-        <item>Jerapah adalah mamalia yang tertinggi yang masih hidup di dunia ini.</item>
+        <item>Rubah adalah binatang pemakan bangkai.</item>
     </string-array>
 
     <string-array name="hewankar_desc">//
-        <item>The Palais Garnier which locates in Paris was built from 1861 for the Paris Opera.</item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Buaya adalah hewan berdarah dingin yang tinggal di sanau, sungai maupun rawa-rawa.</item>
+        <item>Macan tutul adalah salah satu dari empat kucing besar yang ada di dunia.</item>
+        <item>Ular adalah reptil yang tak berkaki dan bertubuh panjang.</item>
+        <item>Singa adalah hewan mamalia yang memiliki wilayah teritorial yang cukup luas.</item>
+        <item>Serigala adalah hewan mamalia karnivora.</item>
+        <item>Penguin adalah burung terbang.</item>
+        <item>Harimau adalah hewan mamalia yang tergolong karnivora, yaitu hewan pemakan daging.</item>
+        <item>Kucing adalah hewan mamalia yang tergolong karnivona (pemakan daging).</item>
         <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
     </string-array>
 
@@ -93,15 +93,34 @@
     </string-array>
 
     <string-array name="hewankar_details">//place_details
-        <item>Lorem ipsum dolor sit amet,</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing</item>
-        <item>Lorem ipsum dolor sit amet, consecte</item>
-        <item>Lorem ipsum </item>
-        <item>Lorem ipsum dolor sit amet, conse</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit</item>
-        <item>Lorem ipsum dolor sit amet, consectetur</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</item>
+        <item>Buaya adalah hewan berdarah dingin yang tinggal di sanau, sungai maupun rawa-rawa. Buaya adalah hewan karnivora yang sangat berbahaya.
+            Dalam keadaan lapar, Ia dapat menyerang apapun, bahkan manusia dimakan olehnya. Buaya berkembang biak dengan cara bertelur.
+            Buaya memiliki pergerakan yang sangat lambat, tetapi didalam air ia memiliki pergerakan yang cepat.
+            Buaya memiliki rahangnya yang kuat dengan gigi-giginya yang tajam.</item>
+        <item>Macan tutul adalah salah satu dari empat kucing besar yang ada di dunia. Ciri khas dari hewan yang cantik ini,kuning kecoklatan dan
+            bintik-bintik hitam adalah perpaduan warna yang sangat indah,dan tidak dimiliki oleh jenis hewan lainya. Hewan ini tidak suka berkelompok.
+            Memiliki indera yang sangat kuat terutama pada matanya dan penciumanya. Macan Tutul adalah karnivora (pemakan daging).</item>
+        <item>Ular adalah reptil yang tak berkaki dan bertubuh panjang. Ular memiliki sisik seperti kadal. Ular memakan mangsanya
+            tanpa dikunyah menjadi keping-keping yang lebih kecil. Ular-ular berbisa membunuh mangsa dengan bisanya.
+            Di gunung, hutan, gurun, dataran rendah, lahan pertanian, lingkungan pemukiman, sampai ke lautan, dapat ditemukan ular.</item>
+        <item>Singa adalah hewan mamalia yang memiliki wilayah teritorial yang cukup luas. Hewan ini adalah hewan karnivora,
+            ia biasanya berburu hewan herbivora seperti kelinci, zebra, dan hewan-hewan lainnya. Singa cenderung berburu pada malam hari
+            ataupun digolongkan dalam hewan nokturnal. Hidup berkelompok. Memakan daging (karnivora). Berkembang biak dengan cara melahirkan.</item>
+        <item>Serigala adalah hewan mamalia karnivora. Di indonesia sendiri serigala sangat jarang terdengar bahkan hampir tidak ada.
+            Memiliki gigi yang tajam untuk mengoyak daging. Serigala berkembang biak dengan cara melahirkan. Memiliki ukuran tubuh yang lebih besar daripada anjing.
+            Memiliki bulu yang lebat. Serigala hidup secara berkelompok.</item>
+        <item>Penguin adalah burung terbang. Alih-alih sayap biasa, penguin memiliki sirip. Penguin adalah perenang yang sangat baik.
+            Penguin adalah karnivora. Mereka makan udang, krill, cumi-cumi, ikan. Punggung penguin berwarna gelap tidak bisa dilihat dari atas
+            karena mereka berbaur dengan air, dan perut putih tidak dapat dilihat dari bawah karena mereka berbaur dengan langit. Penguin adalah hewan sosial.</item>
+        <item>Harimau adalah hewan mamalia yang tergolong karnivora, yaitu hewan pemakan daging. Harimau dapat berlari dengan kecepatan yang cukup mengagumkan,
+            meskipun ia kalah dengan Citah. Memiliki taring yang tajam. Memiliki warnabulu yang loreng (hitam-kuning keemasan). Berkembang biak dengan melahirkan.
+            Memiliki sepasang mata dengan penglihatan luar biasa. Hewan menyusui. Memiliki ekor yang panjang. Memiliki cakar yang tajam.</item>
+        <item>Kucing adalah hewan mamalia yang tergolong karnivona (pemakan daging). Kucing adalah hewan menyusui dan berkembang biak dengan melahirkan.
+            Kucing dapat ditemui hampir di seluruh Indonesia maupun dunia. Memiliki ekor yang panjang (terkadang ada yang pendek).
+            Memiliki hidung yang berwarna pink dan coklat kehitaman. Memiliki gigi taring yang tajam. Memiliki cakar yang tajam.</item>
+        <item>Rubah adalah binatang pemakan bangkai. Rubah adalah mamalia nokturnal, yang berarti bahwa rubah hanya keluar pada malam hari untuk mencari makanan dan berburu mangsa.
+            Rubah dianggap sebagai hama di kota-kota karena rubah sering terlihat mengacak-ngacak sampah. Rubah liar biasanya berburu untuk burung, kelinci, tikus dan mamalia kecil lainnya.
+            Namun, rubah liar juga diketahui sering memakan hewan-hewan kecil seperti serangga.</item>
     </string-array>
 
     <string-array name="hewanherb_locations">
