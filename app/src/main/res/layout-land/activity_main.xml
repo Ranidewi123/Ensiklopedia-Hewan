@@ -22,4 +22,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Karnivora" />
+
+    <Button
+        android:id="@+id/buttonInsectivora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insektivora" />
 </LinearLayout>

@@ -123,6 +123,69 @@
             Namun, rubah liar juga diketahui sering memakan hewan-hewan kecil seperti serangga.</item>
     </string-array>
 
+    <string-array name="hewaninsec">
+        <item>Belalang Sembah</item>
+        <item>Bunglon</item>
+        <item>Burung</item>
+        <item>Capung</item>
+        <item>Kodok</item>
+        <item>Kumbang</item>
+        <item>Laba-laba</item>
+        <item>Landak</item>
+        <item>Tikus Tanah</item>
+    </string-array>
+
+    <string-array name="hewaninsec_desc">//
+        <item>Belalang sembah adalah pemangsa tingkat tinggi dan merupakan serangga yang makan segala macam serangga dan terkadang bersifat kanibal.</item>
+        <item>Bunglon memangsa berbagai macam serangga yang dijumpainya: kupu-kupu, ngengat, capung, lalat dan lain-lain.</item>
+        <item>Burung adalah kelompok hewan yang memiliki bulu dan sayap</item>
+        <item>Capung adalah binatang yang menarik, memiliki 4 sayap, kepala besar, antenna, kaki yang sempurna, dan mata yang besar.</item>
+        <item>Katak adalah binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan.</item>
+        <item>Kumbang adalah hewan dalam kelompok serangga.</item>
+        <item>Laba-laba adalah serangga yang bisa mengeluarkan jaring.</item>
+        <item>Landak adalah hewan pengerat  yang memiliki rambut tebal dan berbentuk duri tajam.</item>
+        <item>Tikus tanah adalah hewan yang jarang keluar dari lubangnya.</item>
+    </string-array>
+
+    <string-array name="hewaninsec_details">//place_details
+        <item>Belalang sembah adalah pemangsa tingkat tinggi dan merupakan serangga yang makan segala macam serangga dan terkadang bersifat kanibal.
+            Ciri-ciri yang dimiliki belalang sembah adalah memiliki 3 pasang kaki. Dua pasang kali belakang digunakan untuk berjalan sedangkan sepasang
+            kaki depan berguna untuk menangkap mangsa. Kaki depannya sangat kuat dan berukuran paling besar dengan sisi bagian dalamnya berduri tajam yang
+            berguna untuk mencengkeram mangsanya. Belalang sentadu adalah salah satu dari segelintir serangga yang dapat memutar kepalanya hingga 180 derajat.</item>
+        <item>Bunglon memangsa berbagai macam serangga yang dijumpainya: kupu-kupu, ngengat, capung, lalat dan lain-lain.
+            Bunglon sering ditemukan di semak, perdu dan pohon-pohon peneduh di kebun dan pekarangan.
+            Sering pula didapati terjatuh dari pohon atau perdu ketika mengejar mangsanya, namun segera berlari menuju pohon terdekat.
+            Di saat Bunglon merasa terancam , Ia akan mengubah warna kulitnya menjadi serupa dengan warna lingkungan sekitarnya, sehingga keberadaannya tersamarkan.</item>
+        <item>Burung adalah kelompok hewan yang memiliki bulu dan sayap.
+            Jenis-jenis burung sangat banyak, mulai dari burung kolibri yang kecil mungil hingga burung unta, dan lain-lain.
+            Habitat burung umumnya berada di hutan dan perkebunan.
+            Makanan burung berupa serangga-serangga kecil, seperti semut, lalat, dan laba-laba.</item>
+        <item>Capung adalah binatang yang menarik, memiliki 4 sayap, kepala besar, antenna, kaki yang sempurna, dan mata yang besar.
+            Capung adalah kelompok serangga yang tergolong ke dalam bangsa serangga.
+            Capung umumnya bertubuh besar dan hinggap dengan sayap terbuka atau terbentang ke samping.
+            Capung biasanya makan nyamuk serangga kecil lainnya seperti lalat, lebah dan kupu-kupu, menangkap mangsanya saat sedang terbang.</item>
+        <item>Katak adalah binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan.
+            Katak berwarna hijau atau merah kecokelat-cokelatan, kaki belakang lebih panjang, pandai melompat dan berenang.
+            Katak mengawali hidupnya sebagai telur yang diletakkan induknya di air, di sarang busa, atau di tempat-tempat basah lainnya.
+            Biasanya setelah hujan kodok akan mengeluarkan suara-suara seperti bernyanyi yang indah</item>
+        <item>Kumbang adalah hewan dalam kelompok serangga.
+            Ciri kumbang adalah bagian sayap dan punggung memiliki warna merah, cokelat, hingga hitam mengkilat yang menarik kalau dilihat.
+            Kepala kumbang berukuran kecil dan membungkuk dengan sepasang antena, kumban akan pura-pura mati apabila ada mangsa mendekat.
+            Kumbang umumnya memakan serannga yang lebih kecil dari tubuhnya.</item>
+        <item>Laba-laba adalah serangga yang bisa mengeluarkan jaring.
+            Mangsa utamanya adalah serangga.
+            Kebanyakan laba-laba memiliki penglihatan yang tidak begitu baik dan tidak dapat membedakan warna.
+            Untuk menandai kehadiran mangsanya pada umumnya laba-laba mengandalkan getaran pada jaring-jaringnya di tempat yang dihinggapinya.</item>
+        <item>Landak adalah hewan pengerat  yang memiliki rambut tebal dan berbentuk duri tajam.
+            Umumnya landak memakan sayuran, tetapi juga memakan serangga seperti capung, kumbang, dan lain-lain.
+            Bulu yang berbentuk duri di tubuh landak berfungsi untuk mengatur suhu tubuuh dan sebagai alat pertahanan diri.
+            Landak sering ditemukan di lubang-lubang tanah dekat pohon atau semak-semak.</item>
+        <item>Tikus tanah adalah hewan yang jarang keluar dari lubangnya.
+            Tikus tanah memiliki badan berbentuk silinder dan tertutup oleh bulu.
+            Tikus tanahh umumnya memakan hewan yang berada di dalam tanah seperti semut.
+            Liur tikus tanah sangat mematikan sehingga dapat melumpahkan semua semut yang berada di sarangnya.</item>
+    </string-array>
+
     <string-array name="hewanherb_locations">
         <item>8 Rue Scribe, 75009 Paris, France</item>
         <item>Piazza del Capitolo - 50122 Florence</item>
@@ -169,6 +232,18 @@
         <item>@drawable/g2</item>
         <item>@drawable/h2</item>
         <item>@drawable/i2</item>
+    </array>
+
+    <array name="hewaninsec_picture">
+        <item>@drawable/a3</item>
+        <item>@drawable/b3</item>
+        <item>@drawable/c3</item>
+        <item>@drawable/d3</item>
+        <item>@drawable/e3</item>
+        <item>@drawable/f3</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/h3</item>
+        <item>@drawable/i3</item>
     </array>
 
 </resources>

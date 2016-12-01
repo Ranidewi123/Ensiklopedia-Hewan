@@ -23,6 +23,9 @@
         <activity
             android:name=".HerbActivity"
             android:screenOrientation="landscape" />
+        <activity
+            android:name=".InsecActivity"
+            android:screenOrientation="landscape" />
     </application>
 
 </manifest>
