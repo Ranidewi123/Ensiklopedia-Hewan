@@ -39,27 +39,26 @@
     </string-array>
 
     <string-array name="hewanherb_desc">//
-        <item>Gajah adalah  hewan mamalia yang mempunyai ukuran yang besar.</item>
-        <item>Binatang sejenis kuda yang tubuhnya berbelang-belang hitam dan putih.</item>
-        <item>Sapi adalah hewan ternak.</item>
-        <item>Panda jenis beruang yang ditemukan di pegunungan China tengah dan barat.</item>
-        <item>Kuda adalah hewan mamalia, kuda juga merupakan binatang herbivora.</item>
-        <item>Kambing adalah hewan mamalia yang tergolong hewan herbivora dan juga memamah biak.</item>
-        <item>Kelinci adalah hewan yang lucu, kelinci banyak dipelihara oleh orang karena kelucuan dan tingkahnya yang imut.</item>
-        <item>Llama adalah binatang sosial yang hidup secara berkelompok dan merupakan binatang endemik Amerika Selatan.</item>
-        <item>Rubah adalah binatang pemakan bangkai.</item>
+        <item>Lama hidup: Gajah asia: 48 tahun, Gajah semak afrika: 60 – 70 tahun, Gajah hutan Afrika: 60 – 70 tahun.</item>
+        <item>Zebra adalah kuda liar terbesar yang memiliki ciri khas dengan tubuh bermotif garis-garis.</item>
+        <item>Lama hidup: 18 – 22 tahun</item>
+        <item>Lama hidup: 20 tahun (Di alam bebas).</item>
+        <item>Lama hidup: 25 – 30 tahun</item>
+        <item>Lama hidup: 15 – 18 tahun</item>
+        <item>Lama hidup : 20 tahun</item>
+        <item>Lama hidup : 13 tahun, tetapi dapat mencapai usia 25 tahun di penangkaran.</item>
     </string-array>
 
     <string-array name="hewankar_desc">//
-        <item>Buaya adalah hewan berdarah dingin yang tinggal di sanau, sungai maupun rawa-rawa.</item>
-        <item>Macan tutul adalah salah satu dari empat kucing besar yang ada di dunia.</item>
-        <item>Ular adalah reptil yang tak berkaki dan bertubuh panjang.</item>
-        <item>Singa adalah hewan mamalia yang memiliki wilayah teritorial yang cukup luas.</item>
-        <item>Serigala adalah hewan mamalia karnivora.</item>
-        <item>Penguin adalah burung terbang.</item>
-        <item>Harimau adalah hewan mamalia yang tergolong karnivora, yaitu hewan pemakan daging.</item>
-        <item>Kucing adalah hewan mamalia yang tergolong karnivona (pemakan daging).</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Nama ilmiah: Crocodylidae.</item>
+        <item>Nama ilmiah: Panthera pardus.</item>
+        <item>Nama ilmiah: Serpentes.</item>
+        <item>Nama ilmiah: Panthera leo.</item>
+        <item>Nama ilmiah: Canis lupus.</item>
+        <item>Nama ilmiah: Spheniscidae</item>
+        <item>Nama ilmiah: Panthera tigris.</item>
+        <item>Nama ilmiah: Felis catus.</item>
+        <item>Nama ilmiah: Vulpes Vulpes.</item>
     </string-array>
 
     <string-array name="hewanherb_details">//place_details
@@ -136,15 +135,15 @@
     </string-array>
 
     <string-array name="hewaninsec_desc">//
-        <item>Belalang sembah adalah pemangsa tingkat tinggi dan merupakan serangga yang makan segala macam serangga dan terkadang bersifat kanibal.</item>
-        <item>Bunglon memangsa berbagai macam serangga yang dijumpainya: kupu-kupu, ngengat, capung, lalat dan lain-lain.</item>
-        <item>Burung adalah kelompok hewan yang memiliki bulu dan sayap</item>
-        <item>Capung adalah binatang yang menarik, memiliki 4 sayap, kepala besar, antenna, kaki yang sempurna, dan mata yang besar.</item>
-        <item>Katak adalah binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan.</item>
-        <item>Kumbang adalah hewan dalam kelompok serangga.</item>
-        <item>Laba-laba adalah serangga yang bisa mengeluarkan jaring.</item>
-        <item>Landak adalah hewan pengerat  yang memiliki rambut tebal dan berbentuk duri tajam.</item>
-        <item>Tikus tanah adalah hewan yang jarang keluar dari lubangnya.</item>
+        <item>Nama ilmiah: Mantodea.</item>
+        <item>Nama ilmiah: Bronchocela jubata.</item>
+        <item>Nama ilmiah: Aves.</item>
+        <item>Nama ilmiah: Anisoptera.</item>
+        <item>Nama ilmiah: Anura.</item>
+        <item>Nama ilmiah: Coleoptera.</item>
+        <item>Nama ilmiah: Araneae.</item>
+        <item>Nama ilmiah: Hystrix javanica.</item>
+        <item>Nama ilmiah: Talpa davidiana.</item>
     </string-array>
 
     <string-array name="hewaninsec_details">//place_details
@@ -199,15 +198,15 @@
     </string-array>
 
     <string-array name="hewanomn_desc">
-        <item>Ayam adalah hewan aves atau unggas.</item>
-        <item>Beruang adalah binatang mammalia yang termasuk dalam hewan pemakan segala.</item>
-        <item>Rubah adalah mamalia sejanis musang.</item>
-        <item>Burung Gagak adalah unggas pemakan segala.</item>
-        <item>Gorila adalah hewan menyusui dan juga pemakan segala.</item>
-        <item>Tikus adalah hewan pengerat pemakan segala.</item>
-        <item>Rakun adalah hewan sejenis kucing pemakan segala.</item>
-        <item>Sigung adalah hewan pemakan segala.</item>
-        <item>Garangan adalah hewan mamalia pemakan segala.</item>
+        <item>Nama ilmiah: Gallus gallus domesticus.</item>
+        <item>Nama ilmiah: Ursidae.</item>
+        <item>Nama ilmiah: Vulpes Vulpes.</item>
+        <item>Nama ilmiah: Corvus enca.</item>
+        <item>Nama ilmiah: Gorilla.</item>
+        <item>Nama ilmiah: Muridae.</item>
+        <item>Nama ilmiah: Procyon lotor.</item>
+        <item>Nama ilmiah: Mephitidae.</item>
+        <item>Nama ilmiah: Herpestidae.</item>
     </string-array>
 
     <string-array name="hewanomn_details">

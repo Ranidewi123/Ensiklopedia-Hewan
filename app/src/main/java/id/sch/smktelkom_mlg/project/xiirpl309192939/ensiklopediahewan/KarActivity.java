@@ -1,8 +1,9 @@
 package id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan;
 
+import android.content.ContentResolver;
+import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
@@ -18,7 +19,8 @@ import id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan.model.Hewa
  * Created by Rani's on 11/27/2016.
  */
 
-public class KarActivity extends AppCompatActivity {
+public class KarActivity extends AppCompatActivity implements HewanAdapter.IHewanAdapter {
+    public static final String HEWAN = "hewan";
     private ArrayList<Hewan> mList = new ArrayList<>();
     private HewanAdapter mAdapter;
 
@@ -28,10 +30,11 @@ public class KarActivity extends AppCompatActivity {
         setContentView(R.layout.activity_herb);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        setTitle("Karnivora");
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         GridLayoutManager layoutManager = new GridLayoutManager(this, 3);
         recyclerView.setLayoutManager(layoutManager);
-        mAdapter = new HewanAdapter(mList);
+        mAdapter = new HewanAdapter(this, mList);
         recyclerView.setAdapter(mAdapter);
 
         fillData();
@@ -41,16 +44,23 @@ public class KarActivity extends AppCompatActivity {
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.hewankar);
         String[] arDeskripsi = resources.getStringArray(R.array.hewankar_desc);
+        String[] arDetail = resources.getStringArray(R.array.hewankar_details);
         TypedArray a = resources.obtainTypedArray(R.array.hewankar_picture);
-        Drawable[] arFoto = new Drawable[a.length()];
+        String[] arFoto = new String[a.length()];
 
         for (int i = 0; i < arFoto.length; i++) {
-            arFoto[i] = a.getDrawable(i);
+            int id = a.getResourceId(i, 0);
+
+            arFoto[i] = ContentResolver.SCHEME_ANDROID_RESOURCE + "://"
+                    + resources.getResourcePackageName(id) + '/'
+                    + resources.getResourceTypeName(id) + '/'
+                    + resources.getResourceEntryName(id);
         }
         a.recycle();
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new Hewan(arJudul[i], arDeskripsi[i], arFoto[i]));
+            mList.add(new Hewan(arJudul[i], arDeskripsi[i],
+                    arDetail[i], arFoto[i]));
         }
         mAdapter.notifyDataSetChanged();
     }
@@ -62,5 +72,12 @@ public class KarActivity extends AppCompatActivity {
             return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void doClick(int pos) {
+        Intent intent = new Intent(this, DetailActivity.class);
+        intent.putExtra(HEWAN, mList.get(pos));
+        startActivity(intent);
     }
 }

@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,9 +20,11 @@ import id.sch.smktelkom_mlg.project.xiirpl309192939.ensiklopediahewan.model.Hewa
 
 public class HewanAdapter extends RecyclerView.Adapter<HewanAdapter.ViewHolder> {
     ArrayList<Hewan> hewanList;
+    IHewanAdapter mIHewanAdapter;
 
-    public HewanAdapter(ArrayList<Hewan> hewanList) {
+    public HewanAdapter(Context context, ArrayList<Hewan> hewanList) {
         this.hewanList = hewanList;
+        mIHewanAdapter = (IHewanAdapter) context;
     }
 
     @Override
@@ -34,7 +38,7 @@ public class HewanAdapter extends RecyclerView.Adapter<HewanAdapter.ViewHolder> 
     public void onBindViewHolder(HewanAdapter.ViewHolder holder, int position) {
         Hewan hewan = hewanList.get(position);
         holder.tvJudul.setText(hewan.judul);
-        holder.ivFoto.setImageDrawable(hewan.foto);
+        holder.ivFoto.setImageURI(Uri.parse(hewan.foto));
     }
 
     @Override
@@ -42,6 +46,10 @@ public class HewanAdapter extends RecyclerView.Adapter<HewanAdapter.ViewHolder> 
         if (hewanList != null)
             return hewanList.size();
         return 0;
+    }
+
+    public interface IHewanAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -52,6 +60,13 @@ public class HewanAdapter extends RecyclerView.Adapter<HewanAdapter.ViewHolder> 
             super(itemView);
             ivFoto = (ImageView) itemView.findViewById(R.id.imageView);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudul);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mIHewanAdapter.doClick(getAdapterPosition());
+                }
+            });
         }
     }
 }
