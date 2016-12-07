@@ -13,6 +13,12 @@ Nama : Rani Dewi Aristhania
 <br>NIS : 9990058124 
 <br>Nama Sekolah : SMK TELKOM MALANG 
 
+Nama : Wisnu Damar Priambodo
+<br>Kelas : XII-RPL3 
+<br>No Urut : 39 
+<br>NIS : 4462/1360.063
+<br>Nama Sekolah : SMK TELKOM MALANG 
+
 <h3>Screenshot</h3>
 ![screenshot_2016-12-08-00-36-14 1](https://cloud.githubusercontent.com/assets/22088935/20980570/a5bebf80-bce3-11e6-8926-bbc7d625af05.png)
 <br>
