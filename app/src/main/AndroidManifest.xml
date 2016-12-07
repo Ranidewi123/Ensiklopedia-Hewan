@@ -26,6 +26,9 @@
         <activity
             android:name=".InsecActivity"
             android:screenOrientation="landscape" />
+        <activity
+            android:name=".OmnActivity"
+            android:screenOrientation="landscape" />
     </application>
 
 </manifest>

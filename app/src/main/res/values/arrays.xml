@@ -186,6 +186,57 @@
             Liur tikus tanah sangat mematikan sehingga dapat melumpahkan semua semut yang berada di sarangnya.</item>
     </string-array>
 
+    <string-array name="hewanomn">
+        <item>Ayam</item>
+        <item>Beruang</item>
+        <item>Rubah</item>
+        <item>Burung Gagak</item>
+        <item>Gorila</item>
+        <item>Tikus</item>
+        <item>Rakun</item>
+        <item>Sigung</item>
+        <item>Moongose</item>
+    </string-array>
+
+    <string-array name="hewanomn_desc">
+        <item>Ayam adalah hewan aves atau unggas.</item>
+        <item>Beruang adalah binatang mammalia yang termasuk dalam hewan pemakan segala.</item>
+        <item>Rubah adalah mamalia sejanis musang.</item>
+        <item>Burung Gagak adalah unggas pemakan segala.</item>
+        <item>Gorila adalah hewan menyusui dan juga pemakan segala.</item>
+        <item>Tikus adalah hewan pengerat pemakan segala.</item>
+        <item>Rakun adalah hewan sejenis kucing pemakan segala.</item>
+        <item>Sigung adalah hewan pemakan segala.</item>
+        <item>Garangan adalah hewan mamalia pemakan segala.</item>
+    </string-array>
+
+    <string-array name="hewanomn_details">
+        <item>Ayam adalah hewan aves atau unggas. bernafas dengan paru paru, tudak bisa terbang, memiliki paruh,
+            memiliki 2 kaki yg fungsinya untuk mengais tanah agar bisa mencari makanan. pada ayam jantan memiliki ceker dan jengger.
+            Hanya ayam jantan yg bisa betkokok ayam hewan yg berkembang biak dengan telur,
+            mengerami telurnya selama 3 minggu lamamnya. ayam biasanya makan cacing jagung beras dan tanaman muda.</item>
+        <item>Beruang adalah binatang mammalia yang termasuk dalam hewan pemakan segala. Beruang memiliki bulu tebal,
+            memiliki cakar untuk menangkap, merobek dan menggali, bermoncong panjang serta dapat berdiri dengan dua kaki.
+            Ciri lain dari beruang antara lain: Memiliki pendengaran dan penciuman yang sangat baik dan bentuk telinga bundar.</item>
+        <item>Rubah adalah mamalia sejanis musang.Terdapat 27 spesies rubah, mereka adalah hewan omnivora dan anggota terkecil
+            famili Canidae (mamalia yang berhubungan dengan anjing). Mereka adalah pelari cepat dan tangkas.</item>
+        <item>Burung Gagak adalah unggas pemakan segala.Hampir semua jenis burung ini berukuran relatif besar dan berwarna bulu
+            dominan hitam. Daerah sebarannya ada di seluruh benua dan kepulauan, dengan perkecualian di Amerika Selatan.</item>
+        <item>Gorila adalah hewan menyusui dan juga pemakan segala.Gorila adalah jenis primata yang terbesar.
+            Makanan gorila terdiri dari sayur-sayuran, walaupun kadang juga makan serangga.
+            Karena itu gorila dapat digolongkan sebagai binatang omnivora. Gorila berasal dari hutan tropis di Afrika.</item>
+        <item>Tikus adalah hewan pengerat pemakan segala.Tikus adalah mamalia yang termasuk dalam suku Muridae.
+            Spesies tikus yang paling dikenal adalah mencit serta tikus got (Rattus norvegicus) yang ditemukan hampir di semua
+            negara dan merupakan suatu organisme model yang penting dalam biologi, juga merupakan hewan peliharaan yang populer.</item>
+        <item>Rakun adalah hewan sejenis kucing pemakan segala.Rakun adalah hewan omnivora, yang biasanya nokturnal,
+            makanannya terdiri dari sekitar 40 persen invertebrata, 33 persen tumbuhan and 27 persen vertebrata.</item>
+        <item>Sigung adalah hewan pemakan segala.Sigung adalah binatang mamalia yang memiliki bulu berwarna hitam dan putih.
+            Sigung termasuk golongan binatang penyendiri yang mencari mangsa pada malam hari.
+            Pada pagi hingga petang, sigung lebih suka bersembunyi dalam tempat gelap seperti gua.</item>
+        <item>Garangan adalah hewan mamalia pemakan segala.Garangan jawa (Herpestes javanicus),
+            dalam bahasa daerah dikenal sebagai garangan atau ganggarangan adalah sejenis omnivora kecil anggota suku Herpestidae.</item>
+    </string-array>
+
     <string-array name="hewanherb_locations">
         <item>8 Rue Scribe, 75009 Paris, France</item>
         <item>Piazza del Capitolo - 50122 Florence</item>
@@ -244,6 +295,18 @@
         <item>@drawable/g3</item>
         <item>@drawable/h3</item>
         <item>@drawable/i3</item>
+    </array>
+
+    <array name="hewanomn_picture">
+        <item>@drawable/a4</item>
+        <item>@drawable/b4</item>
+        <item>@drawable/c4</item>
+        <item>@drawable/d4</item>
+        <item>@drawable/e4</item>
+        <item>@drawable/f4</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/h4</item>
+        <item>@drawable/i4</item>
     </array>
 
 </resources>
