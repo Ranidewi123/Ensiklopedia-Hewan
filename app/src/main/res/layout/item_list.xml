@@ -9,23 +9,23 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="160dp"
         android:scaleType="centerCrop"
         tools:scr="@drawable/a" />
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="160dp"
         android:alpha="0.3"
-        android:background="#424242" />
+        android:background="#ffffff" />
 
     <TextView
         android:id="@+id/textViewJudul"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:gravity="center"
+        android:layout_height="160dp"
+        android:gravity="center_horizontal"
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/holo_red_dark"
         tools:text="Judul" />
 
 </RelativeLayout>

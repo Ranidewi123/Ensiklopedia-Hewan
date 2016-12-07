@@ -24,6 +24,7 @@ public class HerbActivity extends AppCompatActivity {
         setContentView(R.layout.activity_herb);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        setTitle("Herbivora");
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         GridLayoutManager layoutManager = new GridLayoutManager(this, 3);
         recyclerView.setLayoutManager(layoutManager);
