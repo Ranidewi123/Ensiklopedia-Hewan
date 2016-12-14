@@ -7,6 +7,12 @@ Ketiga, setah memilih kategori kemudian memilih hewan mana yang ingin kita cari 
 
 <h2>Identitas Kelompok 9</h2>
 
+Nama : Bima Susila Mukti
+<br>Kelas : XII-RPL3 
+<br>No Urut : 09
+<br>NIS : 4311/1209.063 
+<br>Nama Sekolah : SMK TELKOM MALANG 
+
 Nama : Rani Dewi Aristhania 
 <br>Kelas : XII-RPL3 
 <br>No Urut : 29 
