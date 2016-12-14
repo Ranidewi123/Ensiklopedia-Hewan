@@ -13,6 +13,12 @@ Nama : Bima Susila Mukti
 <br>NIS : 4311/1209.063 
 <br>Nama Sekolah : SMK TELKOM MALANG 
 
+Nama : Moh. Ibnu Bachrudin
+<br>Kelas : XII-RPL3 
+<br>No Urut : 19
+<br>NIS : 4375/1273.063 
+<br>Nama Sekolah : SMK TELKOM MALANG 
+
 Nama : Rani Dewi Aristhania 
 <br>Kelas : XII-RPL3 
 <br>No Urut : 29 
